@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521130444 source:d:\fmi\an 2\semestrul 2\poo\tema_1\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
